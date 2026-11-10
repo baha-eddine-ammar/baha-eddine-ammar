@@ -11,7 +11,7 @@
 ---
 
 ## ✨ About Me  
-🎓 Computer Engineering student specializing in **Embedded Systems & IoT**  
+🎓 Computer Engineering graduate specializing in Embedded Systems and IoT  
 🔧 Passionate about building **smart, connected, hardware-software integrated systems**  
 🤖 I work on **AI-powered robots, RAG systems, mobile apps, LoRa, STM32, and cloud setups**  
 🛡️ Interested in **security, networking, virtualization & DevOps**  
